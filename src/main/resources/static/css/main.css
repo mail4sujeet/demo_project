@@ -1,0 +1,22 @@
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+
+footer{
+    bottom: 5px;
+    position: fixed;
+    width: 100%;
+    border-style: solid;
+    border-width: 0.25em 1px;
+    text-align: center;
+}
+
+.navbar-right {
+    float: right!important;
+    margin-right: -15px;
+    margin-top: 13px;
+}
